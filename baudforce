@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
 
+# b/s, baudrate = 1 second / ( the shortest bit lenght / 1 000 000* );
+#  *: 1 * 10^6 = uSeconds in 1 second
+
 print("TBA")
 
